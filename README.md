@@ -5,9 +5,8 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript , Vue, PHP, Laravel, Postgresql, Mysql.**
 
-- 📫 How to reach me **josebustamante2526@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **josebustamante2526@gmail.com**
 <p align="left">
 </p>
 
